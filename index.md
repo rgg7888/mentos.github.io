@@ -107,7 +107,12 @@
     Routing Number : 091017138
     Account Number : 505101771374
     
-    el dinero se utilizara para cubrir costos de hosting y nombre de dominio
+    el dinero se utilizara para cubrir costos de hosting y nombre de dominio,
+    mantenimiento del sitio y desarrollo del mismo , como puede notar aun hay mucho 
+    por hacer , puede visitar las paginas desde un pc o laptop para una visualizacion optima
+    <br>
+    WARNING : el layout mobile first aun no esta implementado
+    <br>
     puede sugerir nombres ya que si aporta el sitio no es solamente mio
     le pertenece a todas las personas que hacen posible que el sito este en linea
     </pre>
