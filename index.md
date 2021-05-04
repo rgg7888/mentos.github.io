@@ -95,9 +95,11 @@
 <footer style="width:100%;text-align:center;">
     <a href="https://www.instagram.com/ramiroseh/"><span style='font-size:100px;'>&#128526;</span></a>
     <br>
+    <pre>
     <a href="https://soypadawan.me">site 01</a>
     <a href="https://piezas4websites.com">site 02</a>
     <a href="https://pchssp.com">site 03</a>
+    </pre>
     <pre>
     este proyecto no crece por falta de motivacion economica
     si desea colaborar con unos centavos 
