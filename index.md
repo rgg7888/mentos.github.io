@@ -94,4 +94,19 @@
 </pre></div></section></div>
 <footer style="width:100%;text-align:center;">
     <a href="https://www.instagram.com/ramiroseh/"><span style='font-size:100px;'>&#128526;</span></a>
+    <br>
+    <a href="https://soypadawan.me">site 01</a>
+    <a href="https://piezas4websites.com">site 02</a>
+    <a href="https://pchssp.com">site 03</a>
+    <pre>
+    este proyecto no crece por falta de motivacion economica
+    si desea colaborar con unos centavos 
+    lo puede hacer mediante deposito directo :
+    Routing Number : 091017138
+    Account Number : 505101771374
+    
+    el dinero se utilizara para cubrir costos de hosting y nombre de dominio
+    puede sugerir nombres ya que si aporta el sitio no es solamente mio
+    le pertenece a todas las personas que hacen posible que el sito este en linea
+    </pre>
 </footer>
