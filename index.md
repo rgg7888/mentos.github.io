@@ -8,6 +8,7 @@
     box-shadow: 1px 2px 5px #978909;
     box-sizing:border-box;
     display:flex;
+flex-direction:column;
     justify-content:space-between;
     align-items:center;
 '><section style='width:40%;padding:10px;box-shadow: 1px 2px 5px #577909;position:relative;'><h2 style='text-align:center;'>Default</h2><h3 style='text-align:center;'>Etiqueta</h3><div style='width:160px;padding:5px;box-shadow: 1px 2px 5px #576606;margin: auto;'><pre>array(2) {
