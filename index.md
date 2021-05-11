@@ -32,4 +32,3 @@ En construcci&oacute;n
     Donations :<br><br>
     Routing Number : 091017138<br>
     Account Number : 505101771374
-</div>
