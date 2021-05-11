@@ -28,7 +28,7 @@
 En construcci&oacute;n
 </p>
   <div class="div1">
-    Hello World.<br><nr>
+    Hello World.<br><br>
     Donations :<br><br>
     Routing Number : 091017138<br>
     Account Number : 505101771374
