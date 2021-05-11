@@ -23,7 +23,7 @@
   }
 </style>
 
-<h1>MENTOS / ProyectoEMA</h1>
+<h1>ProyectoEMA</h1>
 <p>
 En construcci&oacute;n
 </p>
