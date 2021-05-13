@@ -25,7 +25,8 @@
 
 <h1>ProyectoEMA</h1>
 <p>
-En construcci&oacute;n
+En construcci&oacute;n<br>
+  <a href="https://rgg7888.github.io/materialize-form/">Checa este form de ejemplo</a>
 </p>
   <div class="div1">
     Hello World.<br><br>
